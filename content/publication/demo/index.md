@@ -12,7 +12,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "In NeurIPS 2020 Workshop: Challenges of Real World Reinforcement Learning"
+publication: "In *NeurIPS 2020 Workshop: Challenges of Real World Reinforcement Learning*"
 abstract: >
   We explore possible methods for multi-task transfer learning which seek to
   exploit the shared physical structure of robotics tasks. Specifically, we
