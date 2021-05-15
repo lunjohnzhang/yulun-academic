@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yulun Zhang
+title: Yulun Zhang | 张宇伦
 
 # Is this the primary user of the site?
 superuser: true
