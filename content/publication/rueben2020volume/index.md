@@ -14,7 +14,7 @@ publication_types:
 authors:
   - Matthew Rueben
   - Thomas Groechel
-  - admin
+  - "**Yulun Zhang**"
   - Gisele Ragusa
   - Maja J Matarić
 
