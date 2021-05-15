@@ -71,7 +71,7 @@ image:
 # slides: example
 
 date: 2020-03-23T21:17:19.609Z
-doi: https://dl.acm.org/doi/abs/10.1145/3371382.3378388
+doi: 10.1145/3371382.3378388
 ---
 
 <!-- {{% callout note %}}
