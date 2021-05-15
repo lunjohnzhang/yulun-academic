@@ -7,7 +7,7 @@ authors:
   - KR Zentner
   - Ryan C Julian
   - Ujjwal Puri
-  - {{<b>}}Yulun Zhang{{</b>}}
+  - admin
   - Gaurav S Sukhatme
 author_notes:
   - Equal contribution
