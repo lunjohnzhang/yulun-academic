@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: yulunzha@usc.edu
 # phone: 888 888 88 88
 # address:
 #   street: 450 Serra Mall
@@ -62,8 +62,8 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
-  show_search: true
+  show_day_night: false
+  show_search: false
   highlight_active_link: true
 
 # Localization
