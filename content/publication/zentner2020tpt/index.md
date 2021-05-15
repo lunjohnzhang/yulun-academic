@@ -16,7 +16,7 @@ authors:
   - KR Zentner
   - Ryan C Julian
   - Ujjwal Puri
-  - - "**Yulun Zhang**"
+  - admin
   - Gaurav S Sukhatme
 
 # Author notes (optional)
