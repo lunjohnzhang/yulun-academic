@@ -1,6 +1,6 @@
 ---
 title: "Skill Builder: A Simple Approach to ContinualLearning for Manipulation"
-summary: We showthat storing skill policies, careful pre-training, and fine-tuning with on-policy re-inforcement learning (RL), are sufficient for building a continual manipulationskill learner.
+summary: We show that storing skill policies, careful pre-training, and fine-tuning with on-policy re-inforcement learning (RL), are sufficient for building a continual manipulation skill learner.
 tags:
 - Robot Learning
 - Reinforcement Learning

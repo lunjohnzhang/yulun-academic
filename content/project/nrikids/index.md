@@ -5,7 +5,7 @@ tags:
 - Human-Robot Interaction
 - Socially Assistive Robotics
 - Mobile Remote Presence Robot
-date: "2021-05-11T00:00:00Z"
+date: "2020-03-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://uscinteractionlab.web.app/project/nrikids"
