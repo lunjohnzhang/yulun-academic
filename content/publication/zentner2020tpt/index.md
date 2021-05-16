@@ -55,10 +55,10 @@ url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""
-url_project: ""
+url_project: "https://robotics.usc.edu/resl/publications/1120/"
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: "https://drive.google.com/file/d/1DlIpUa5TcaRLDojI3NH4c04FDhaqfKJ9/view"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

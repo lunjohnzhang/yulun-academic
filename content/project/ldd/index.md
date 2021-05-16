@@ -2,9 +2,9 @@
 title: Unitization - Logical Document Determination
 summary: A software tool for prosecution attorneys to perform logical document determination electronically.
 tags:
-- Software Testing
-- Record and Replay tool
-- Android
+- Logical Document Determination
+- Machine Learning
+- Full Stack Development
 date: "2021-05-13T00:00:00Z"
 
 authors:
