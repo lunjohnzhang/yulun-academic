@@ -1,6 +1,6 @@
 ---
 title: pyribs
-summary: A bare-bones quality diversity optimization library.
+summary: A bare-bones quality diversity (QD) optimization library. QD algorithm is a powerful alternative compared to single-objective optimization because it is able to search for a diverse set of solutions according to user-defined metrics. In this library we provide implementations of recent QD algorithms such as MAP-Elites and Covariance Matrix Adaptation MAP-Elites (CMA-ME).
 tags:
 - Quality-Diversity Algorithms
 - Evolutionary Algorithms

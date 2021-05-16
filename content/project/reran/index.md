@@ -1,6 +1,6 @@
 ---
 title: RERAN+
-summary: New scheduling mechanism for record and replay for Android.
+summary: We found a time-sensitive issue of RERAN, a record and replay tool for Android published in 2013. In this project we propose a new scheduling mechanism for RERAN that resolve the time-sensitive issue.
 tags:
 - Software Testing
 - Record and Replay tool
