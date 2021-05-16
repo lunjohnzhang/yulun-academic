@@ -73,7 +73,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- "Skill Builder: A Simple Approach to ContinualLearning for Manipulation"
+- "content/project/tpt/index.md"
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
