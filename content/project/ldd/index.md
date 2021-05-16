@@ -1,6 +1,6 @@
 ---
-title: Unitization - Logical Document Determination
-summary: A software tool for prosecution attorneys to perform logical document determination electronically.
+title: "LDD Genie"
+summary: A software tool for prosecution attorneys to perform logical document determination (LDD) electronically.
 tags:
 - Logical Document Determination
 - Machine Learning
