@@ -5,7 +5,7 @@ tags:
 - Software Testing
 - Record and Replay tool
 - Android
-date: "2021-01-20T00:00:00Z"
+date: 2021-05-13
 
 authors:
   - Yang Li
