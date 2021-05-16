@@ -5,7 +5,22 @@ tags:
 - Software Testing
 - Record and Replay tool
 - Android
-date: "2018-10-02T00:00:00Z"
+date: "2021-01-20T00:00:00Z"
+
+authors:
+  - Yang Li
+  - Yizhou Sheng
+  - admin
+  - Jincheng Zhou
+  - Changyu Zhu
+
+# Author notes (optional)
+author_notes:
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
