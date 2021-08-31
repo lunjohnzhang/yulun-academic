@@ -1,5 +1,5 @@
 ---
-title: "[On the Importance of Environments in Human-Robot Coordination](https://overcooked-lsi.github.io/)"
+title: "On the Importance of Environments in Human-Robot Coordination"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
