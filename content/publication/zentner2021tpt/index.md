@@ -1,6 +1,6 @@
 ---
-title: Towards Exploiting Geometry and Time for Fast Off-Distribution Adaptation
-  in Multi-Task Robot Learning
+title: A Simple Approach to Continual Learning by Transferring Skill Parameters
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,21 +25,11 @@ author_notes:
   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "In *NeurIPS 2020 Workshop: Challenges of Real World Reinforcement Learning*"
+publication: "Manuscript submitted for review."
 
 abstract: >
-  We explore possible methods for multi-task transfer learning which seek to
-  exploit the shared physical structure of robotics tasks. Specifically, we
-  train policies for a base set of pre-training tasks, then experiment with
-  adapting to new off-distribution tasks, using simple architectural approaches
-  for re-using these policies as black-box priors. These approaches include
-  learning an alignment of either the observation space or action space from a
-  base to a target task to exploit rigid body structure, and methods for
-  learning a time-domain switching policy across base tasks which solves the
-  target task, to exploit temporal coherence. We find that combining
-  low-complexity target policy classes, base policies as black-box priors, and
-  simple optimization algorithms allows us to acquire new tasks outside the base
-  task distribution, using small amounts of offline training data.
+In order to be effective general purpose machines in real world environments, robots not only will need to adapt their existing manipulation skills to new circumstances, they will need to acquire entirely new skills on-the-fly. A great promise of continual learning is to endow robots with this ability, by using their accumulated knowledge and experience from prior skills. We take a fresh look at this problem, by considering a setting in which the robot is limited to storing that knowledge and experience only in the form of learned skill policies. We show that storing skill policies, careful pre-training, and appropriately choosing when to transfer those skill policies is sufficient to build a continual learner in the context of robotic manipulation. We analyze which conditions are needed to transfer skills in the challenging Meta-World simulation benchmark. Using this analysis, we introduce a pair-wise metric relating skills that allows us to predict the effectiveness of skill transfer between tasks, and use it to reduce the problem of continual learning to curriculum selection. Given an appropriate curriculum, we show how to continually acquire robotic manipulation skills without forgetting, and using far fewer samples than needed to train them from scratch.
+
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,14 +41,14 @@ draft: false
 featured: false
 
 # extra links
-url_pdf: "https://arxiv.org/pdf/2106.13237.pdf"
+url_pdf: "https://arxiv.org/pdf/2110.10255.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
-url_project: "https://robotics.usc.edu/resl/publications/1120/"
+url_project: ""
 url_slides: ""
 url_source: ""
-url_video: "https://drive.google.com/file/d/1DlIpUa5TcaRLDojI3NH4c04FDhaqfKJ9/view"
+url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -82,7 +72,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2020-12-15T21:17:19.609Z
+date: 2021-10-19T21:17:19.609Z
 ---
 
 <!-- {{% callout note %}}
