@@ -73,3 +73,7 @@ highlight_name: true
 I am a master student majoring in Computer Science at the University of Southern California. I am currently working in Interactive and Collaborative Autonomous Robotics ({{< staticref "http://icaros.usc.edu/" "newtab" >}}ICAROS{{< /staticref >}}) lab at USC with Professor {{< staticref "https://stefanosnikolaidis.net/" "newtab" >}}Stefanos Nikolaidis{{< /staticref >}} and {{< staticref "https://www.linkedin.com/in/matthew-fontaine-53510b122/" "newtab" >}}Matt Fontaine{{< /staticref >}}. I am also working in Robotic Embedded Systems Laboratory ({{< staticref "https://robotics.usc.edu/resl/" "newtab" >}}RESL{{< /staticref >}}) at USC with {{< staticref "https://ryanjulian.me/" "newtab" >}}Ryan Julian{{< /staticref >}}. My research interests include human-robot collaboration, evolutionary algorithms, and multi-task reinforcement learning.
 
 Previously, I was working in the {{< staticref "https://uscinteractionlab.web.app/" "newtab" >}}USC Interaction Lab{{< /staticref >}} with {{< staticref "https://matthewrueben.github.io/" "newtab" >}}Dr.Matt Rueben{{< /staticref >}} on Socially Assistive Robotics as well as {{< staticref "https://viterbi-web.usc.edu/~halfond/" "newtab" >}}Professor William Halfond{{< /staticref >}}'s group on record and replay tools for Android.
+
+Here is my most recent [CV](https://drive.google.com/file/d/18LB860iMyUP4kA1SxG72Oj3kIIHWl7XJ/view?usp=sharing) (updated Oct 2021).
+
+I am actively looking for a Ph.D. position for Fall 2022.
