@@ -15,7 +15,7 @@ authors:
   - Matthew C. Fontaine
   - Ya-Chuan Hsu
   - admin
-  - Bryon Tjakana
+  - Bryon Tjanaka
   - Stefanos Nikolaidis
 
 # Author notes (optional)
