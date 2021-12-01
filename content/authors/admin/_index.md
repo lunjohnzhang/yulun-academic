@@ -74,6 +74,6 @@ I am a master student majoring in Computer Science at the University of Southern
 
 Previously, I was working in the {{< staticref "https://uscinteractionlab.web.app/" "newtab" >}}USC Interaction Lab{{< /staticref >}} with {{< staticref "https://matthewrueben.github.io/" "newtab" >}}Dr.Matt Rueben{{< /staticref >}} on Socially Assistive Robotics as well as {{< staticref "https://viterbi-web.usc.edu/~halfond/" "newtab" >}}Professor William Halfond{{< /staticref >}}'s group on record and replay tools for Android.
 
-Here is my most recent [CV](https://drive.google.com/file/d/18LB860iMyUP4kA1SxG72Oj3kIIHWl7XJ/view?usp=sharing) (updated Oct 2021).
+Here is my most recent [CV](https://drive.google.com/file/d/18LB860iMyUP4kA1SxG72Oj3kIIHWl7XJ/view?usp=sharing) (updated Dec 2021).
 
 I am actively looking for a Ph.D. position for Fall 2022.
