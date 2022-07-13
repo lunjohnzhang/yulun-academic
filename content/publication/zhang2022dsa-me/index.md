@@ -6,7 +6,7 @@ title: "Deep Surrogate Assisted MAP-Elites for Automated Hearthstone Deckbuildin
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-  - "3"
+  - "1"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,7 +24,7 @@ authors:
 #   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "*Preprint*"
+publication: "In *GECCO ’22, July 9–13, 2022, Boston, MA, USA*"
 
 abstract: We study the problem of efficiently generating high-quality and diverse content in games. Previous work on automated deckbuilding in Hearthstone shows that the quality diversity algorithm MAP-Elites can generate a collection of high-performing decks with diverse strategic gameplay. However, MAP-Elites requires a large number of expensive evaluations to discover the diverse collection of decks. We propose assisting MAP-Elites with a deep surrogate model trained online to predict game outcomes with respect to candidate decks. MAP-Elites discovers a diverse dataset to improve the surrogate model accuracy, while the surrogate model helps guide MAP-Elites towards promising new content. In a Hearthstone deckbuilding case study, we show that our approach improves the sample efficiency of MAP-Elites and outperforms a model trained offline with random decks, as well as a linear surrogate model baseline, setting a new state-of-the-art for quality diversity approaches in the application domain of automated Hearthstone deckbuilding.
 
@@ -39,11 +39,11 @@ featured: false
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2112.03534.pdf"
-url_code: ""
+url_code: "https://github.com/icaros-usc/EvoStone2"
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/1KqLFfOxZ6wwlwnXSyGrYzlHN9sPGmeVRrjBtn6WWDCM/edit?usp=sharing"
 url_source: ""
 url_video: ""
 
@@ -69,8 +69,9 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2021-12-08T00:00:00.000Z
-# doi: 10.1145/3371382.3378388
+date: 2022-07-08T00:00:00.000Z
+doi: 10.1145/3512290.3528718
+
 ---
 
 <!-- {{% callout note %}}

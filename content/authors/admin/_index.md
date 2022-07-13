@@ -76,4 +76,4 @@ Previously, I was working in the {{< staticref "https://uscinteractionlab.web.ap
 
 Here is my most recent [CV](https://drive.google.com/file/d/18LB860iMyUP4kA1SxG72Oj3kIIHWl7XJ/view?usp=sharing) (updated Dec 2021).
 
-I am actively looking for a Ph.D. position for Fall 2022.
+I will be starting as a PhD student at Carnegie Mellon University Robotics Institute in Fall 2022.
