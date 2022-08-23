@@ -6,12 +6,12 @@ title: Yulun Zhang
 superuser: true
 
 # Role/position/tagline
-role: Master's Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Southern California
-  url: https://www.usc.edu/
+- name: Carnegie Mellon University
+  url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Evolutionary Computation, Human-Robot Interaction, and Reinforcement Learning.
@@ -25,9 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  - course: Ph.D. in Robotics
+    institution: Carnegie Mellon University
+    # year: 2012
   - course: MSc in Computer Science
     institution: University of Southern California
     year: 2022
@@ -70,10 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a master student majoring in Computer Science at the University of Southern California. I am currently working in Interactive and Collaborative Autonomous Robotics ({{< staticref "http://icaros.usc.edu/" "newtab" >}}ICAROS{{< /staticref >}}) lab at USC with Professor {{< staticref "https://stefanosnikolaidis.net/" "newtab" >}}Stefanos Nikolaidis{{< /staticref >}} and {{< staticref "https://www.linkedin.com/in/matthew-fontaine-53510b122/" "newtab" >}}Matt Fontaine{{< /staticref >}}. I am also working in Robotic Embedded Systems Laboratory ({{< staticref "https://robotics.usc.edu/resl/" "newtab" >}}RESL{{< /staticref >}}) at USC with {{< staticref "https://ryanjulian.me/" "newtab" >}}Ryan Julian{{< /staticref >}}. My research interests include human-robot collaboration, evolutionary algorithms, and multi-task reinforcement learning.
+I am a first year Ph.D. student in Robotics Institute at the Carnegie Mellon University. Previously, I was a master/undergrad student majoring in Computer Science at the University of Southern California. I was working in Interactive and Collaborative Autonomous Robotics ({{< staticref "http://icaros.usc.edu/" "newtab" >}}ICAROS{{< /staticref >}}) lab at USC with Professor {{< staticref "https://stefanosnikolaidis.net/" "newtab" >}}Stefanos Nikolaidis{{< /staticref >}} and {{< staticref "https://www.linkedin.com/in/matthew-fontaine-53510b122/" "newtab" >}}Matt Fontaine{{< /staticref >}}. I was also working in Robotic Embedded Systems Laboratory ({{< staticref "https://robotics.usc.edu/resl/" "newtab" >}}RESL{{< /staticref >}}) at USC with {{< staticref "https://ryanjulian.me/" "newtab" >}}Ryan Julian{{< /staticref >}}. My research interests include human-robot collaboration, evolutionary algorithms, and multi-task reinforcement learning.
 
-Previously, I was working in the {{< staticref "https://uscinteractionlab.web.app/" "newtab" >}}USC Interaction Lab{{< /staticref >}} with {{< staticref "https://matthewrueben.github.io/" "newtab" >}}Dr.Matt Rueben{{< /staticref >}} on Socially Assistive Robotics as well as {{< staticref "https://viterbi-web.usc.edu/~halfond/" "newtab" >}}Professor William Halfond{{< /staticref >}}'s group on record and replay tools for Android.
+In addition, I was working in the {{< staticref "https://uscinteractionlab.web.app/" "newtab" >}}USC Interaction Lab{{< /staticref >}} with {{< staticref "https://matthewrueben.github.io/" "newtab" >}}Dr.Matt Rueben{{< /staticref >}} on Socially Assistive Robotics as well as {{< staticref "https://viterbi-web.usc.edu/~halfond/" "newtab" >}}Professor William Halfond{{< /staticref >}}'s group on record and replay tools for Android.
 
 Here is my most recent [CV](https://drive.google.com/file/d/18LB860iMyUP4kA1SxG72Oj3kIIHWl7XJ/view?usp=sharing) (updated Dec 2021).
-
-I will be starting as a PhD student at Carnegie Mellon University Robotics Institute in Fall 2022.
