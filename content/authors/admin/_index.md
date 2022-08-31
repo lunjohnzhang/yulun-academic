@@ -75,3 +75,5 @@ I am a first year Ph.D. student in Robotics Institute at the Carnegie Mellon Uni
 In addition, I was working in the {{< staticref "https://uscinteractionlab.web.app/" "newtab" >}}USC Interaction Lab{{< /staticref >}} with {{< staticref "https://matthewrueben.github.io/" "newtab" >}}Dr.Matt Rueben{{< /staticref >}} on Socially Assistive Robotics as well as {{< staticref "https://viterbi-web.usc.edu/~halfond/" "newtab" >}}Professor William Halfond{{< /staticref >}}'s group on record and replay tools for Android.
 
 Here is my most recent [CV](https://drive.google.com/file/d/18LB860iMyUP4kA1SxG72Oj3kIIHWl7XJ/view?usp=sharing) (updated Dec 2021).
+
+I am also enthusiastic about photography, especially scenery photography. Check out [my portfolio](https://yulunzhang.myportfolio.com/) and [instagram](https://www.instagram.com/lunjohnzhang/) for some of my works.
