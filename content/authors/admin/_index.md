@@ -70,8 +70,12 @@ email: ""
 highlight_name: true
 ---
 
-I am a first year Ph.D. student in Robotics Institute at the Carnegie Mellon University. Previously, I was a master/undergrad student majoring in Computer Science at the University of Southern California. I was working in Interactive and Collaborative Autonomous Robotics ({{< staticref "http://icaros.usc.edu/" "newtab" >}}ICAROS{{< /staticref >}}) lab at USC with Professor {{< staticref "https://stefanosnikolaidis.net/" "newtab" >}}Stefanos Nikolaidis{{< /staticref >}} and {{< staticref "https://www.linkedin.com/in/matthew-fontaine-53510b122/" "newtab" >}}Matt Fontaine{{< /staticref >}}. I was also working in Robotic Embedded Systems Laboratory ({{< staticref "https://robotics.usc.edu/resl/" "newtab" >}}RESL{{< /staticref >}}) at USC with {{< staticref "https://ryanjulian.me/" "newtab" >}}Ryan Julian{{< /staticref >}}. My research interests include human-robot collaboration, evolutionary algorithms, and multi-task reinforcement learning.
+I am a first year Ph.D. student in Robotics Institute at the Carnegie Mellon University.
+
+Previously, I was a master/undergrad student majoring in Computer Science at the University of Southern California. I was working in Interactive and Collaborative Autonomous Robotics ({{< staticref "http://icaros.usc.edu/" "newtab" >}}ICAROS{{< /staticref >}}) lab at USC with Professor {{< staticref "https://stefanosnikolaidis.net/" "newtab" >}}Stefanos Nikolaidis{{< /staticref >}} and {{< staticref "https://www.linkedin.com/in/matthew-fontaine-53510b122/" "newtab" >}}Matt Fontaine{{< /staticref >}}. I was also working in Robotic Embedded Systems Laboratory ({{< staticref "https://robotics.usc.edu/resl/" "newtab" >}}RESL{{< /staticref >}}) at USC with {{< staticref "https://ryanjulian.me/" "newtab" >}}Ryan Julian{{< /staticref >}} and [K.R. Zentner](https://zentner.io/). My research interests include human-robot collaboration, evolutionary algorithms, and multi-task reinforcement learning.
 
 In addition, I was working in the {{< staticref "https://uscinteractionlab.web.app/" "newtab" >}}USC Interaction Lab{{< /staticref >}} with {{< staticref "https://matthewrueben.github.io/" "newtab" >}}Dr.Matt Rueben{{< /staticref >}} on Socially Assistive Robotics as well as {{< staticref "https://viterbi-web.usc.edu/~halfond/" "newtab" >}}Professor William Halfond{{< /staticref >}}'s group on record and replay tools for Android.
 
 Here is my most recent [CV](https://drive.google.com/file/d/18LB860iMyUP4kA1SxG72Oj3kIIHWl7XJ/view?usp=sharing) (updated Sep 2022).
+
+I am also enthusiastic about photography, especially scenery photography. Check out [my portfolio](https://yulunzhang.myportfolio.com/) and [instagram](https://www.instagram.com/lunjohnzhang/) for some of my works.
