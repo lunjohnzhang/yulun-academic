@@ -18,8 +18,10 @@ bio: My research interests include Evolutionary Computation, Human-Robot Interac
 
 # Interests to show in About widget
 interests:
+- Quality Diversity Optimization
 - Evolutionary Computation
 - Human-Robot Interaction
+- Multi-Robot Coordination
 - Reinforcement Learning
 
 # Education to show in About widget
