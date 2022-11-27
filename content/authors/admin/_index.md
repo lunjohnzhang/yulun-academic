@@ -78,7 +78,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yulunz@andrew.cmu.edu"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
