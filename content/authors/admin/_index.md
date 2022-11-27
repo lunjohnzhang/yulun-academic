@@ -51,12 +51,21 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Eed2gcMAAAAJ&hl=en&oi=sra
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yulun-Zhang-3
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/0000-0003-3199-8697
 - icon: github
   icon_pack: fab
   link: https://github.com/lunjohnzhang
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yulun-zhang/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/lunjohnzhang/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
