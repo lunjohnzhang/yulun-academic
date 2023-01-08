@@ -72,7 +72,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2022-23-19T21:17:19.609Z
+date: 2022-10-23T21:17:19.609Z
 ---
 
 <!-- {{% callout note %}}
