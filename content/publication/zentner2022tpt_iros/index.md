@@ -1,5 +1,5 @@
 ---
-title: "A Simple Approach to Continual Learning by Transferring Skill Parameters"
+title: "Efficient Multi-Task Learning via Iterated Single-Task Transfer"
 
 
 # Publication type.
@@ -14,20 +14,21 @@ publication_types:
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - KR Zentner
-  - Ryan C Julian
   - Ujjwal Puri
   - admin
+  - Ryan C Julian
   - Gaurav S Sukhatme
 
-# Author notes (optional)
-author_notes:
-  - Equal contribution
-  - Equal contribution
+# # Author notes (optional)
+# author_notes:
+#   - Equal contribution
+#   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "*Preprint*"
+publication: "*2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October 23-27, 2022, Kyoto, Japan*"
 
-abstract: In order to be effective general purpose machines in real world environments, robots not only will need to adapt their existing manipulation skills to new circumstances, they will need to acquire entirely new skills on-the-fly. A great promise of continual learning is to endow robots with this ability, by using their accumulated knowledge and experience from prior skills. We take a fresh look at this problem, by considering a setting in which the robot is limited to storing that knowledge and experience only in the form of learned skill policies. We show that storing skill policies, careful pre-training, and appropriately choosing when to transfer those skill policies is sufficient to build a continual learner in the context of robotic manipulation. We analyze which conditions are needed to transfer skills in the challenging Meta-World simulation benchmark. Using this analysis, we introduce a pair-wise metric relating skills that allows us to predict the effectiveness of skill transfer between tasks, and use it to reduce the problem of continual learning to curriculum selection. Given an appropriate curriculum, we show how to continually acquire robotic manipulation skills without forgetting, and using far fewer samples than needed to train them from scratch.
+abstract: In order to be effective general purpose machines in real world environments, robots not only will need to adapt their existing manipulation skills to new circumstances, they will need to acquire entirely new skills on-the-fly. One approach to achieving this capability is via Multi-task Reinforcement Learning (MTRL). Most recent work in MTRL trains a single policy to solve all tasks at once. In this work, we investigate the feasibility of instead training separate policies for each task, and only transferring from a task once the policy for it has finished training. We describe a method of finding near optimal sequences of transfers to perform in this setting, and use it to show that performing the optimal sequence of transfer is competitive with other MTRL methods on the Meta World MT10 benchmark. Lastly, we describe a method for finding nearly optimal transfer sequences during training that is able to improve on training each task from scratch.
+
 
 
 # Summary. An optional shortened abstract.
@@ -40,7 +41,7 @@ draft: false
 featured: false
 
 # extra links
-url_pdf: "https://arxiv.org/pdf/2110.10255.pdf"
+url_pdf: "https://ieeexplore.ieee.org/document/9981244"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -71,7 +72,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2021-10-19T21:17:19.609Z
+date: 2022-23-19T21:17:19.609Z
 ---
 
 <!-- {{% callout note %}}
