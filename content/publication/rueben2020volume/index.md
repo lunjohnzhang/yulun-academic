@@ -16,7 +16,7 @@ authors:
   - Thomas Groechel
   - admin
   - Gisele Ragusa
-  - Maja J Matarić
+  - Maja J. Matarić
 
 # Author notes (optional)
 # author_notes:

@@ -21,7 +21,7 @@ authors:
   - Timothy S. Wang
   - Thomas R. Groechel
   - Rhianna Lee
-  - Maja J Matarić
+  - Maja J. Matarić
 
 # Author notes (optional)
 # author_notes:
