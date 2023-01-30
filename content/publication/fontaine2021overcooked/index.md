@@ -40,13 +40,13 @@ featured: false
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2106.10853.pdf"
-url_code: ""
+url_code: "https://github.com/icaros-usc/overcooked_env_gen"
 url_dataset: ""
 url_poster: ""
 url_project: "https://overcooked-lsi.github.io/"
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=IeoTM_KnDfY"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -71,7 +71,7 @@ image:
 # slides: example
 
 date: 2021-06-22T00:00:00.000Z
-# doi: 10.1145/3371382.3378388
+doi: 10.15607/RSS.2021.XVII.038
 ---
 
 <!-- {{% callout note %}}
