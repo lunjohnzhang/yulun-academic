@@ -54,9 +54,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yulun-Zhang-3
-# - icon: orcid
-#   icon_pack: ai
-#   link: https://orcid.org/0000-0003-3199-8697
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3199-8697
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1FipU8eEc9aXFVWvTt2jopr2MMxqYo_Ng/view?usp=sharing
