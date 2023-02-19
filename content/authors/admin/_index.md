@@ -59,7 +59,7 @@ social:
   link: https://orcid.org/0000-0003-3199-8697
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/file/d/1FipU8eEc9aXFVWvTt2jopr2MMxqYo_Ng/view?usp=sharing
+  link: https://drive.google.com/file/d/1Ot0eYf0LyIGTvd8XhZevaTdCLRkjf4fk/view?usp=sharing
 - icon: github
   icon_pack: fab
   link: https://github.com/lunjohnzhang
@@ -90,6 +90,6 @@ Previously, I was a master/undergrad student majoring in Computer Science at the
 
 In addition, I was working in the {{< staticref "https://uscinteractionlab.web.app/" "newtab" >}}USC Interaction Lab{{< /staticref >}} with {{< staticref "https://matthewrueben.github.io/" "newtab" >}}Dr. Matt Rueben{{< /staticref >}} on Socially Assistive Robotics as well as Professor {{< staticref "https://viterbi-web.usc.edu/~halfond/" "newtab" >}}William Halfond{{< /staticref >}}'s group on record and replay tools for Android.
 
-Here is my most recent [CV](https://drive.google.com/file/d/1FipU8eEc9aXFVWvTt2jopr2MMxqYo_Ng/view?usp=sharing) (updated Jan 2023).
+Here is my most recent [CV](https://drive.google.com/file/d/1Ot0eYf0LyIGTvd8XhZevaTdCLRkjf4fk/view?usp=sharing) (updated Jan 2023).
 
 I am also enthusiastic about photography, especially scenery photography. Check out [my portfolio](https://yulunzhang.myportfolio.com/) and [instagram](https://www.instagram.com/lunjohnzhang/) for some of my works.
