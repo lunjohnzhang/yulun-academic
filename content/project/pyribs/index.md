@@ -19,7 +19,7 @@ links:
   name: Follow
   url: https://twitter.com/pyribs
 url_code: "https://github.com/icaros-usc/pyribs"
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2303.00191.pdf"
 url_slides: ""
 url_video: ""
 
