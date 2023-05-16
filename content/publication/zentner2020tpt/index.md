@@ -25,7 +25,7 @@ author_notes:
   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "In *NeurIPS 2020 Workshop: Challenges of Real World Reinforcement Learning, December 12, 2020.*"
+publication: "In *NeurIPS 2020 Workshop: Challenges of Real World Reinforcement Learning, December 12, 2020*"
 
 abstract: >
   We explore possible methods for multi-task transfer learning which seek to
