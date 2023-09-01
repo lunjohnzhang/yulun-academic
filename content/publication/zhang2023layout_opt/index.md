@@ -43,7 +43,7 @@ featured: false
 url_pdf: "https://arxiv.org/pdf/2305.06436.pdf"
 url_code: "https://github.com/lunjohnzhang/warehouse_env_gen_public"
 url_dataset: ""
-url_poster: ""
+url_poster: "https://drive.google.com/file/d/1-E1Jh3Jz8HcZcTAWGOcHZMShZC9fpMl8/view?usp=drive_link"
 url_project: ""
 url_slides: ""
 url_source: ""
@@ -72,7 +72,7 @@ image:
 # slides: example
 
 date: 2023-05-11T00:00:00.000Z
-# doi: 10.1145/3512290.3528718
+doi: 10.24963/ijcai.2023/611
 
 ---
 
