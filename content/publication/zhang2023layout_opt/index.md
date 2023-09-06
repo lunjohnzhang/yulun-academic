@@ -45,7 +45,7 @@ url_code: "https://github.com/lunjohnzhang/warehouse_env_gen_public"
 url_dataset: ""
 url_poster: "https://drive.google.com/file/d/1-E1Jh3Jz8HcZcTAWGOcHZMShZC9fpMl8/view?usp=drive_link"
 url_project: ""
-url_slides: "https://1drv.ms/p/s!AnRYKDPQuEdokW56XT8YXaImdURW?e=dV1O3d"
+url_slides: "https://andrewcmu-my.sharepoint.com/:p:/g/personal/yulunz_andrew_cmu_edu/ESE4DJIP2pNFiGNgfCVjCOUB00QzC4daPteyEFFyWDctaA?e=E1lDfo"
 url_source: ""
 url_video: ""
 
