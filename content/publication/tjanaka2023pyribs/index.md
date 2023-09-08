@@ -76,7 +76,7 @@ image:
 # slides: example
 
 date: 2023-03-01T00:00:00.000Z
-# doi: 10.15607/RSS.2021.XVII.038
+doi: 10.1145/3583131.3590374
 ---
 
 <!-- {{% callout note %}}
