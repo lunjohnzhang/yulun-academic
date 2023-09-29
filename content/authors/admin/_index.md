@@ -57,6 +57,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3199-8697
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Yulun-Zhang/2108094463
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1Ot0eYf0LyIGTvd8XhZevaTdCLRkjf4fk/view?usp=sharing
