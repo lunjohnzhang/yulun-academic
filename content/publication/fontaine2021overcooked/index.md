@@ -71,7 +71,7 @@ image:
 # slides: example
 
 date: 2021-06-22T00:00:00.000Z
-doi: 10.15607/RSS.2021.XVII.038
+doi: https://www.roboticsproceedings.org/rss17/p038.html
 ---
 
 <!-- {{% callout note %}}
