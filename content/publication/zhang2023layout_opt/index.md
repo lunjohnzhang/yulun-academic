@@ -27,7 +27,7 @@ authors:
 # Publication name and optional abbreviated publication name.
 publication: "In *Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), August 19–25, 2023, Macao, China*"
 
-abstract: With the rapid progress in Multi-Agent Path Finding (MAPF), researchers have studied how MAPF algorithms can be deployed to coordinate hundreds of robots in large automated warehouses. While most works try to improve the throughput of such warehouses by developing better MAPF algorithms, we focus on improving the throughput by optimizing the warehouse layout. We show that, even with state-of-the-art MAPF algorithms, commonly used human-designed layouts can lead to congestion for warehouses with large numbers of robots and thus have limited scalability. We extend existing automatic scenario generation methods to optimize warehouse layouts. Results show that our optimized warehouse layouts (1) reduce traffic congestion and thus improve throughput, (2) improve the scalability of the automated warehouses by doubling the number of robots in some cases, and (3) are capable of generating layouts with user-specified diversity measures. We include the source code at https://github.com/lunjohnzhang/warehouse_env_gen_public
+abstract: With the rapid progress in Multi-Agent Path Finding (MAPF), researchers have studied how MAPF algorithms can be deployed to coordinate hundreds of robots in large automated warehouses. While most works try to improve the throughput of such warehouses by developing better MAPF algorithms, we focus on improving the throughput by optimizing the warehouse layout. We show that, even with state-of-the-art MAPF algorithms, commonly used human-designed layouts can lead to congestion for warehouses with large numbers of robots and thus have limited scalability. We extend existing automatic scenario generation methods to optimize warehouse layouts. Results show that our optimized warehouse layouts (1) reduce traffic congestion and thus improve throughput, (2) improve the scalability of the automated warehouses by doubling the number of robots in some cases, and (3) are capable of generating layouts with user-specified diversity measures.
 
 
 # Summary. An optional shortened abstract.
@@ -85,3 +85,17 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+
+<!-- ## Visualizations -->
+<table>
+<tr>
+    <td>
+        {{< video src="dsage-map.mp4" >}}
+        <center>Our Optimized map</center>
+    </td>
+    <td>
+        {{< video src="human-designed-map.mp4" >}}
+        <center>Traditional human-designed map</center>
+    </td>
+</tr>
+</table>

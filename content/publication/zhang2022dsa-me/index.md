@@ -83,3 +83,6 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+
+{{< video src="archives.mp4" >}}
+<center>Archives of DSA-ME and MAP-Elites.</center>
