@@ -60,3 +60,4 @@ subtitle = ""
 
 - **[2022/07]** Physically attended [GECCO 2022](https://gecco-2022.sigevo.org/HomePage) in Boston, MA, USA!
 
+- **[2022/04]** Our paper **[Deep Surrogate Assisted MAP-Elites for Automated Hearthstone Deckbuilding](publication/zhang2022dsa-me/)** was accepted to [GECCO 2022](https://gecco-2022.sigevo.org/HomePage)!
