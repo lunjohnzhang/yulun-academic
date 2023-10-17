@@ -86,10 +86,3 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 {{< video src="archives.mp4" >}}
 <center>Archives of DSA-ME and MAP-Elites.</center>
-
-<!-- <figure>
-    <video controls autoplay src="archives.mp4" type="video/mp4"></video>
-    <figcaption>
-    <center>Archives of DSA-ME and MAP-Elites.</center>
-    </figcaption>
-</figure> -->
