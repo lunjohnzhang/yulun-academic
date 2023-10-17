@@ -1,7 +1,6 @@
 ---
 title: "Efficient Multi-Task Learning via Iterated Single-Task Transfer"
 
-
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -29,8 +28,6 @@ publication: "In *Proceedings of the IEEE/RSJ International Conference on Intell
 
 abstract: In order to be effective general purpose machines in real world environments, robots not only will need to adapt their existing manipulation skills to new circumstances, they will need to acquire entirely new skills on-the-fly. One approach to achieving this capability is via Multi-task Reinforcement Learning (MTRL). Most recent work in MTRL trains a single policy to solve all tasks at once. In this work, we investigate the feasibility of instead training separate policies for each task, and only transferring from a task once the policy for it has finished training. We describe a method of finding near optimal sequences of transfers to perform in this setting, and use it to show that performing the optimal sequence of transfer is competitive with other MTRL methods on the Meta World MT10 benchmark. Lastly, we describe a method for finding nearly optimal transfer sequences during training that is able to improve on training each task from scratch.
 
-
-
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -40,15 +37,20 @@ draft: false
 # Display this page in the Featured widget?
 featured: false
 
+# Custom links
+links:
+  - name: Website
+    url: https://sites.google.com/view/task-policy-transfer
+
 # extra links
 url_pdf: "https://ieeexplore.ieee.org/document/9981244"
 url_code: ""
 url_dataset: ""
-url_poster: ""
+url_poster: "https://drive.google.com/file/d/1FwLiWQQIsYF024QLb8wW4cBhDEXPk-p8/view"
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=0I7otKc3Pmc"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -62,8 +64,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- "content/project/tpt/index.md"
+# projects:
+# - "content/project/tpt/index.md"
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -38,12 +38,17 @@ draft: false
 # Display this page in the Featured widget?
 featured: false
 
+# Custom links
+links:
+  - name: Website
+    url: https://overcooked-lsi.github.io/
+
 # extra links
 url_pdf: "https://arxiv.org/pdf/2106.10853.pdf"
 url_code: "https://github.com/icaros-usc/overcooked_env_gen"
 url_dataset: ""
 url_poster: ""
-url_project: "https://overcooked-lsi.github.io/"
+url_project: ""
 url_slides: ""
 url_source: ""
 url_video: "https://www.youtube.com/watch?v=IeoTM_KnDfY"

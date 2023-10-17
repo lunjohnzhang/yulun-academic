@@ -14,15 +14,14 @@ organizations:
   url: https://www.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Quality Diversity Optimization, Evolutionary Computation, Human-Robot Interaction, Multi-Robot Coordination, and Reinforcement Learning.
+bio: My research interests include Quality Diversity Optimization, Evolutionary Computation, Multi-Robot Coordination, and Human-Robot Interaction.
 
 # Interests to show in About widget
 interests:
 - Quality Diversity Optimization
 - Evolutionary Computation
-- Human-Robot Interaction
 - Multi-Robot Coordination
-- Reinforcement Learning
+- Human-Robot Interaction
 
 # Education to show in About widget
 education:
