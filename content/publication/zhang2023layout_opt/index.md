@@ -91,7 +91,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
 <tr>
     <td>
         {{< video src="dsage-map.mp4" >}}
-        <center>Our Optimized map</center>
+        <center>Our optimized map</center>
     </td>
     <td>
         {{< video src="human-designed-map.mp4" >}}
