@@ -1,11 +1,10 @@
 ---
 # Display name
-title: 张宇伦
+title: Yulun Zhang
 # name_pronunciation: Zhang Yu lun
 
 first_name: Yulun
 last_name: Zhang
-
 
 # Is this the primary user of the site?
 superuser: true
