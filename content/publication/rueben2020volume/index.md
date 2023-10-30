@@ -72,6 +72,10 @@ projects:
 
 date: 2020-03-23T21:17:19.609Z
 doi: 10.1145/3371382.3378388
+
+profile: false
+share: false
+show_date: false
 ---
 
 <!-- {{% callout note %}}

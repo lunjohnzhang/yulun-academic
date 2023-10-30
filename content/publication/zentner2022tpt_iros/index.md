@@ -76,6 +76,11 @@ image:
 
 date: 2022-10-23T21:17:19.609Z
 doi: 10.1109/IROS47612.2022.9981244
+
+profile: false
+share: false
+show_date: false
+
 ---
 
 <!-- {{% callout note %}}

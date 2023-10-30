@@ -74,6 +74,14 @@ image:
 date: 2023-05-11T00:00:00.000Z
 doi: 10.24963/ijcai.2023/611
 
+profile: false
+share: false
+show_date: false
+
+# design:
+    # css_class:
+    # css_style: ".article-metadata {font-size: 25px;}"
+
 ---
 
 <!-- {{% callout note %}}
@@ -87,15 +95,20 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
 
 <!-- ## Visualizations -->
-<table>
-<tr>
-    <td>
-        {{< video src="dsage-map.mp4" >}}
-        <center>Our optimized map</center>
-    </td>
-    <td>
-        {{< video src="human-designed-map.mp4" >}}
-        <center>Traditional human-designed map</center>
-    </td>
-</tr>
-</table>
+
+<div class="video-row">
+    <div class="video-container">
+    <video autoplay loop muted>
+        <source src="dsage-map.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p class="video-caption">Our optimized map</p>
+    </div>
+    <div class="video-container">
+    <video autoplay loop muted>
+        <source src="human-designed-map.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p class="video-caption">Traditional human-designed map</p>
+    </div>
+</div>

@@ -83,6 +83,10 @@ projects:
 # slides: example
 
 date: 2020-12-15T21:17:19.609Z
+
+profile: false
+share: false
+show_date: false
 ---
 
 <!-- {{% callout note %}}

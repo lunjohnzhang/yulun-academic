@@ -72,6 +72,10 @@ image:
 date: 2022-07-08T00:00:00.000Z
 doi: 10.1145/3512290.3528718
 
+profile: false
+share: false
+show_date: false
+
 ---
 
 <!-- {{% callout note %}}
@@ -84,5 +88,14 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
 
-{{< video src="archives.mp4" >}}
-<center>Archives of DSA-ME and MAP-Elites.</center>
+<!-- {{< video src="archives.mp4" >}}
+<center>Archives of DSA-ME and MAP-Elites.</center> -->
+
+
+<div class="video-container">
+<video autoplay loop muted >
+    <source src="archives.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<p class="video-caption">Archives of DSA-ME and MAP-Elites.</p>
+</div>
