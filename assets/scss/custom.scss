@@ -1,0 +1,50 @@
+.article-container.pt-3 {
+    content:' ';
+    display:block;
+    text-align: center;
+  }
+
+.article-container {
+    max-width: 850pt;
+}
+
+.article-metadata:not(.li-cite-author):not(.stream-meta) {
+    font-size: 25px;
+}
+
+// .article-date {
+//     content: "";
+//     color: transparent;
+//     user-select: none;
+//     font-size: 0;
+// }
+
+.video-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center !important;
+}
+.video-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+    margin: 10px;
+    line-height: 1 !important;
+    padding: 0 !important;
+}
+
+video {
+    display: block;
+    margin: 0 !important;
+    margin-bottom: 5px !important;
+    padding: 0 !important;
+    border: none !important;
+}
+
+.video-caption {
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center;
+    font-style: italic;
+    border: none !important;
+}
