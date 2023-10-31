@@ -46,7 +46,7 @@ subtitle = ""
 
 - **[2023/10]** Honored to receive the **Quality of Life Tech Center Student Research Fund**!
 
-- **[2023/10]** Our paper **Arbitrarily Scalable Environment Generators via Neural Cellular Automata** was accepted to [NeurIPS 2023](https://nips.cc/Conferences/2023)!
+- **[2023/10]** Our paper **[Arbitrarily Scalable Environment Generators via Neural Cellular Automata](publication/zhang2023nca)** was accepted to [NeurIPS 2023](https://nips.cc/Conferences/2023)!
 
 - **[2023/08]** Physically attended [IJCAI 2023](https://ijcai-23.org/) in Macao, S.A.R., China!
 
