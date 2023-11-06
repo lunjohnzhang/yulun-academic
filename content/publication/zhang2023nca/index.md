@@ -145,12 +145,10 @@ Figure 3 shows the NCA-generated environments of different sizes, showing that t
 
 
 <figure>
-    <div class="video-container">
-        <video autoplay loop muted>
-            <source src="videos/nca_process.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
+    <video autoplay loop muted width=60%>
+        <source src="videos/nca_process.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
     <figcaption><b>Figure 4:</b> Example NCA generation process for environment of size 101 $\times$ 102. </figcaption>
 </figure>
 
