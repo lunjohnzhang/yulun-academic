@@ -1,8 +1,8 @@
 .article-container.pt-3 {
-    content:' ';
-    display:block;
+    content: ' ';
+    display: block;
     text-align: center;
-  }
+}
 
 .article-container {
     max-width: 850pt;
@@ -24,6 +24,7 @@
     justify-content: space-between;
     align-items: center !important;
 }
+
 .video-container {
     display: flex;
     flex-direction: column;
@@ -45,6 +46,45 @@ video {
     margin: 0 !important;
     padding: 0 !important;
     text-align: center;
-    font-style: italic;
+    // font-style: italic;
     border: none !important;
+}
+
+.image-row {
+    display: flex !important;
+    justify-content: space-between !important;
+    flex-wrap: wrap !important;
+    /* Allows for wrapping if the screen is too small */
+}
+
+.image-row figure {
+    display: flex !important;
+    /* Enables flexbox for image and caption alignment */
+    flex-direction: column !important;
+    /* Stacks image and caption vertically */
+    justify-content: flex-end !important;
+    /* Aligns child elements to the bottom */
+    width: 40% !important;
+    /* Adjust the width as needed to fit four images in a row */
+    margin: 0% !important;
+    /* Provide some space between the items */
+    text-align: center !important;
+    /* Center the caption */
+}
+
+.image-row img {
+    width: 100% !important;
+    /* Make the image fill the figure element */
+    height: auto !important;
+    /* Maintain aspect ratio */
+}
+
+.image-row figcaption {
+    margin-top: 0.5em !important;
+    /* Adds some space between the image and the caption */
+}
+
+figcaption {
+    font-size: 15pt !important;
+    /* Larger font size for the caption */
 }
