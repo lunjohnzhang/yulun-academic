@@ -91,11 +91,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
 <!-- {{< video src="archives.mp4" >}}
 <center>Archives of DSA-ME and MAP-Elites.</center> -->
 
-
-<div class="video-container">
-<video playsinline autoplay loop muted >
-    <source src="archives.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-<p class="video-caption">Archives of DSA-ME and MAP-Elites.</p>
-</div>
+<figure>
+    <video playsinline autoplay loop muted width=100%>
+        <source src="archives.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <figcaption>Archives of DSA-ME and MAP-Elites. </figcaption>
+</figure>

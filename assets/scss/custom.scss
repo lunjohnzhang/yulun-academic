@@ -27,7 +27,7 @@
 
 .video-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: column !important;
     align-items: center !important;
     margin: 10px;
     line-height: 1 !important;
