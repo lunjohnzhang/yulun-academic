@@ -179,14 +179,14 @@ In this domain, we show that it is possible to scale a single-agent RL policy to
 <figure>
     <div class="video-row">
         <div class="video-container">
-        <video autoplay loop muted>
+        <video playsinline autoplay loop muted>
             <source src="videos/maze16.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
         <p class="video-caption">18 $\times$ 18</p>
         </div>
         <div class="video-container">
-        <video autoplay loop muted>
+        <video playsinline autoplay loop muted>
             <source src="videos/maze_66.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
