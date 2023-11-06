@@ -30,13 +30,18 @@ publication: "In *Proceedings of the Advances in Neural Information Processing S
 abstract: We study the problem of generating arbitrarily large environments to improve the throughput of multi-robot systems. Prior work proposes Quality Diversity (QD) algorithms as an effective method for optimizing the environments of automated warehouses. However, these approaches optimize only relatively small environments, falling short when it comes to replicating real-world warehouse sizes. The challenge arises from the exponential increase in the search space as the environment size increases. Additionally, the previous methods have only been tested with up to 350 robots in simulations, while practical warehouses could host thousands of robots. In this paper, instead of optimizing environments, we propose to optimize Neural Cellular Automata (NCA) environment generators via QD algorithms. We train a collection of NCA generators with QD algorithms in small environments and then generate arbitrarily large environments from the generators at test time. We show that NCA environment generators maintain consistent, regularized patterns regardless of environment size, significantly enhancing the scalability of multi-robot systems in two different domains with up to 2,350 robots. Additionally, we demonstrate that our method scales a single-agent reinforcement learning policy to arbitrarily large environments with similar patterns.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We propose to optimize Neural Cellular Automata (NCA) environment generators via QD algorithms. We show that NCA-generated environments maintain consistent, regularized patterns regardless of environment size, significantly enhancing the scalability of multi-robot systems.
 
 # Is this paper is draft?
 draft: false
 
 # Display this page in the Featured widget?
 featured: false
+
+# Custom links
+links:
+  - name: Website
+    url: /publication/zhang2023nca
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2310.18622.pdf"
