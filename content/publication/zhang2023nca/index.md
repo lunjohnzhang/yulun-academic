@@ -145,7 +145,7 @@ Figure 3 shows the NCA-generated environments of different sizes, showing that t
 
 
 <figure>
-    <video autoplay loop muted width=60%>
+    <video playsinline autoplay loop muted width=60%>
         <source src="videos/nca_process.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>

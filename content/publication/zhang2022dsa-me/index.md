@@ -93,7 +93,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 
 <div class="video-container">
-<video autoplay loop muted >
+<video playsinline autoplay loop muted >
     <source src="archives.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>

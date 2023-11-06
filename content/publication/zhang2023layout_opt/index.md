@@ -98,14 +98,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 <div class="video-row">
     <div class="video-container">
-    <video autoplay loop muted>
+    <video playsinline autoplay loop muted>
         <source src="dsage-map.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
     <p class="video-caption">Our optimized map</p>
     </div>
     <div class="video-container">
-    <video autoplay loop muted>
+    <video playsinline autoplay loop muted>
         <source src="human-designed-map.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
