@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b4df8f0a-a45f-49fa-b198-1e310106870b/deploy-status)](https://app.netlify.com/sites/yulunzhang/deploys)
 
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/media/logo.svg" alt="Wowchemy Website Builder"></a></p>
+<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="./.github/media/sharing.png" alt="Hugo Blox Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
@@ -29,18 +29,18 @@ To help us develop this template and software sustainably under the MIT license,
 
 <!-- [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com) -->
 
-## Demo image credits
+<!-- ## Demo image credits
 
 - [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
+- [Course](https://unsplash.com/photos/JKUTrJ4vK00) -->
 
-## Latest news
+<!-- ## Latest news -->
 <!--START_SECTION:news-->
-* [Hugo vs Quarto: Which One is Better for 2023?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;hugo-vs-quarto&#x2F;)
+<!-- * [Hugo vs Quarto: Which One is Better for 2023?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;hugo-vs-quarto&#x2F;)
 * [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
 * [What&#39;s new in v5.2?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;whats-new-in-v5.2&#x2F;)
 * [What&#39;s new in v5.1?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;whats-new-in-v5.1&#x2F;)
-* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
+* [Version 5.0 (February 2021)](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;) -->
 <!--END_SECTION:news-->
 
 <!-- [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon) -->
