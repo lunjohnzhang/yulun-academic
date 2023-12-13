@@ -43,6 +43,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- **[2023/12]** Physically attending [NeurIPS 2023](https://neurips.cc/Conferences/2023) in New Orleans, LA, USA!
 
 - **[2023/10]** Honored to receive the **Quality of Life Tech Center Student Research Fund**!
 
