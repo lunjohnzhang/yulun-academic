@@ -32,13 +32,13 @@ education:
   courses:
     - course: Ph.D. in Robotics
       institution: Carnegie Mellon University
-      # year: 2012
+      year: 2022 - Present
     - course: MSc in Computer Science
       institution: University of Southern California
-      year: 2022
+      year: 2020 - 2022
     - course: BSc in Computer Science
       institution: University of Southern California
-      year: 2021
+      year: 2017 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
