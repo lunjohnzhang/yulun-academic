@@ -93,11 +93,12 @@ email: ""
 highlight_name: true
 ---
 
-My name is Yulun Zhang (张宇伦). I am a second year Ph.D. student in [Robotics Institute](https://www.ri.cmu.edu/) at the [Carnegie Mellon University](https://www.cmu.edu/), advised by Professor [Jiaoyang Li](https://jiaoyangli.me/). Currently I am focusing on **environment optimization for Multi-Agent Path Finding (MAPF) algorithms** using [***Quality-Diversity (QD) optimization***](https://quality-diversity.github.io/) and generative AI methods. As a long-term goal, I would like to bring QD optimization and Evolutionary Optimization to Robotics, expanding their applicability and scalability.
+My name is Yulun Zhang (张宇伦). I am a second year Ph.D. student in [Robotics Institute](https://www.ri.cmu.edu/) at the [Carnegie Mellon University](https://www.cmu.edu/), advised by Professor [Jiaoyang Li](https://jiaoyangli.me/). Currently I am focusing on **environment optimization for Multi-Agent Path Finding (MAPF) algorithms** using [***Quality-Diversity (QD) optimization***](https://quality-diversity.github.io/), evolutionary computation, and generative modeling methods.
+<!-- As a long-term goal, I would like to bring QD optimization and Evolutionary Optimization to Robotics, expanding their applicability and scalability. -->
 
 Previously, I was a master/undergrad student majoring in Computer Science at the [University of Southern California](https://www.usc.edu/). I was working in [ICAROS](http://icaros.usc.edu/) lab at USC with Professor [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) and [Matt Fontaine](https://www.linkedin.com/in/matthew-fontaine-53510b122/) on [**surrogate assisted QD optimization**](/publication/zhang2022dsa-me) and [**scenario generation for human-robot coordination**](https://overcooked-lsi.github.io/). I was also working in [RESL](https://robotics.usc.edu/resl/) at USC with [Dr. Ryan Julian](https://ryanjulian.me/) and [K.R. Zentner](https://zentner.io/) on [**transfer learning for robotics**](https://sites.google.com/view/task-policy-transfer).
 
-In addition, I was working in the [USC Interaction Lab](https://uscinteractionlab.web.app/) with [Dr. Matt Rueben](https://matthewrueben.github.io/) on [**socially assistive robotics**](publication/rueben2021volume/) as well as Professor {{< staticref "https://viterbi-web.usc.edu/~halfond/" "newtab" >}}William Halfond{{< /staticref >}}'s group on [**record and replay tools for Android**](project/reran/).
+In addition, I was working in the [USC Interaction Lab](https://uscinteractionlab.web.app/) with [Dr. Matt Rueben](https://matthewrueben.github.io/) on [**socially assistive robotics**](publication/rueben2021volume/) as well as Professor [William Halfond](https://viterbi-web.usc.edu/~halfond/)'s group on [**record and replay tools for Android**](project/reran/).
 
 Here is my most recent [CV](https://drive.google.com/file/d/1Ot0eYf0LyIGTvd8XhZevaTdCLRkjf4fk/view?usp=sharing) (updated Dec 2023).
 
