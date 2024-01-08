@@ -103,3 +103,5 @@ In addition, I was working in the [USC Interaction Lab](https://uscinteractionla
 Here is my most recent [CV](https://drive.google.com/file/d/1Ot0eYf0LyIGTvd8XhZevaTdCLRkjf4fk/view?usp=sharing) (updated Dec 2023).
 
 I am also enthusiastic about photography, especially scenery photography. Check out [my photography portfolio](https://yulunzhang.myportfolio.com/) and [instagram](https://www.instagram.com/lunjohnzhang/) for some of my works.
+
+Contact me: yulunzhang \[at\] cmu \[dot\] edu
