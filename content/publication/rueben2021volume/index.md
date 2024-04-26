@@ -29,7 +29,7 @@ authors:
 #   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI), October 18–22, 2021, Montréal, QC, Canada*"
+publication: "In *Proceedings of the International Conference on Multimodal Interaction (ICMI), October 18–22, Montréal, QC, Canada*"
 
 abstract: Telepresence robots offer presence, embodiment, and mobility to remote users, making them promising options for homebound K-12 students. It is difficult, however, for robot operators to know how well they are being heard in remote and noisy classroom environments. One solution is to estimate the operator's speech intelligibility to their listeners in order to provide feedback about it to the operator. This work contributes the first evaluation of a speech intelligibility feedback system for homebound K-12 students attending class remotely. In our four long-term, in-the-wild deployments we found that students speak at different volumes instead of adjusting the robot's volume, and that detailed audio calibration and network latency feedback are needed. We also contribute the first findings about the types and frequencies of multimodal comprehension cues given to homebound students by listeners in the classroom. By annotating and categorizing over 700 cues, we found that the most common cue modalities were conversation turn timing and verbal content. Conversation turn timing cues occurred more frequently overall, whereas verbal content cues contained more information and might be the most frequent modality for negative cues. Our work provides recommendations for telepresence systems that could intervene to ensure that remote users are being heard.
 

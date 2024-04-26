@@ -24,7 +24,7 @@ authors:
 #   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 24-26, 2020, Cambridge, United Kingdom*"
+publication: "In *Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI), March 24-26, Cambridge, United Kingdom*"
 
 abstract: Telepresence robots could help homebound students to be physically embodied and socially connected in the classroom. However, most telepresence robots do not provide their operators with information about whether their speaking volume is appropriate in the remote context. We are investigating how operators could benefit from live feedback about speaking volume appropriateness as part of our ongoing research on using remote presence robots to improve education and social connectedness for students experiencing extended absences from school. This preliminary report describes (1) the development of a model of speaking volume appropriateness to provide this feedback,(2) implementation of a feedback element in the operator's user interface, and (3) plans for long-term deployment to assess impacts on the social and educational experience of homebound high school students.
 
