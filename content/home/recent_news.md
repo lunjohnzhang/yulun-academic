@@ -43,7 +43,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- **[2024/04]** Two paper (**[GGO](publication/zhang2024ggo)** and **[MAPF Mechanism](publication/friedrich2024mechanism)**) were accepted to [IJCAI 2024](https://ijcai24.org/)!
+- **[2024/04]** Two papers (**[GGO](publication/zhang2024ggo)** and **[MAPF Mechanism](publication/friedrich2024mechanism)**) were accepted to [IJCAI 2024](https://ijcai24.org/)!
 
 - **[2024/03]** **[One MAPF position paper](publication/jiang2024competition)** and **three extended abstracts** were accepted to [SoCS 2024](https://socs24.search-conference.org/)!
 
