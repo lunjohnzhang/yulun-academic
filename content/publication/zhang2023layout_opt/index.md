@@ -43,9 +43,9 @@ featured: false
 url_pdf: "https://arxiv.org/pdf/2305.06436.pdf"
 url_code: "https://github.com/lunjohnzhang/warehouse_env_gen_public"
 url_dataset: ""
-url_poster: "https://drive.google.com/file/d/1-E1Jh3Jz8HcZcTAWGOcHZMShZC9fpMl8/view?usp=drive_link"
+url_poster: "https://drive.google.com/file/d/1VAzhyZHDgp-eHlGQNDSdq-zWDhgAVxQl/view?usp=drive_link"
 url_project: ""
-url_slides: "https://andrewcmu-my.sharepoint.com/:p:/g/personal/yulunz_andrew_cmu_edu/ESE4DJIP2pNFiGNgfCVjCOUB00QzC4daPteyEFFyWDctaA?e=E1lDfo"
+url_slides: "https://1drv.ms/p/s!AnRYKDPQuEdokjwgGQmvBt9ea2Th?e=kFquJv"
 url_source: ""
 url_video: ""
 

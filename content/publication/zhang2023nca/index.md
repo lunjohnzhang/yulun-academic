@@ -49,9 +49,9 @@ links:
 url_pdf: "https://arxiv.org/pdf/2310.18622.pdf"
 url_code: "https://github.com/lunjohnzhang/warehouse_env_gen_nca_public"
 url_dataset: ""
-url_poster: ""
+url_poster: "https://drive.google.com/file/d/117-DPRB0pQqmxogUoVdfR2ewQRtCoWrf/view?usp=sharing"
 url_project: ""
-url_slides: ""
+url_slides: "https://1drv.ms/p/s!AnRYKDPQuEdokj2ML5zeupgxfHeS?e=7DQeFp"
 url_source: ""
 url_video: ""
 

@@ -41,9 +41,9 @@ featured: false
 url_pdf: "https://arxiv.org/pdf/2112.03534.pdf"
 url_code: "https://github.com/icaros-usc/EvoStone2"
 url_dataset: ""
-url_poster: ""
+url_poster: "https://drive.google.com/file/d/1mjL66luvTCjf9kRiLNW7SCH2dtU5co0s/view?usp=sharing"
 url_project: ""
-url_slides: "https://docs.google.com/presentation/d/1KqLFfOxZ6wwlwnXSyGrYzlHN9sPGmeVRrjBtn6WWDCM/edit?usp=sharing"
+url_slides: "https://1drv.ms/p/s!AnRYKDPQuEdokkAFYRIjsOj8tfxv?e=gEvNLG"
 url_source: ""
 url_video: ""
 

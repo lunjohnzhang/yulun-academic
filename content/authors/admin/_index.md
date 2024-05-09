@@ -65,7 +65,7 @@ social:
   #   link: https://www.semanticscholar.org/author/Yulun-Zhang/2108094463
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1Ot0eYf0LyIGTvd8XhZevaTdCLRkjf4fk/view?usp=sharing
+    link: https://drive.google.com/file/d/1GkGvQeQiSeJlQ9XG4belTv_IQCYpbYph/view?usp=sharing
   - icon: github
     icon_pack: fab
     link: https://github.com/lunjohnzhang
@@ -100,7 +100,7 @@ Previously, I was a master/undergrad student majoring in Computer Science at the
 
 In addition, I was working in the [USC Interaction Lab](https://uscinteractionlab.web.app/) with [Dr. Matt Rueben](https://matthewrueben.github.io/) on [**socially assistive robotics**](publication/rueben2021volume/) as well as Professor [William Halfond](https://viterbi-web.usc.edu/~halfond/)'s group on [**record and replay tools for Android**](project/reran/).
 
-Here is my most recent [CV](https://drive.google.com/file/d/1Ot0eYf0LyIGTvd8XhZevaTdCLRkjf4fk/view?usp=sharing) (updated Dec 2023).
+Here is my most recent [CV](https://drive.google.com/file/d/1GkGvQeQiSeJlQ9XG4belTv_IQCYpbYph/view?usp=sharing) (updated Dec 2023).
 
 I am also enthusiastic about photography, especially scenery photography. Check out [my photography portfolio](https://yulunzhang.myportfolio.com/) and [instagram](https://www.instagram.com/lunjohnzhang/) for some of my works.
 

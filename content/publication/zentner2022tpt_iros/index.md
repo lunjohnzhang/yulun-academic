@@ -46,7 +46,7 @@ links:
 url_pdf: "https://ieeexplore.ieee.org/document/9981244"
 url_code: ""
 url_dataset: ""
-url_poster: "https://drive.google.com/file/d/1FwLiWQQIsYF024QLb8wW4cBhDEXPk-p8/view"
+url_poster: "https://drive.google.com/file/d/1ryxpVPRSWPKXQPYgcX3ic4rVQOgdDLqF/view?usp=sharing"
 url_project: ""
 url_slides: ""
 url_source: ""
