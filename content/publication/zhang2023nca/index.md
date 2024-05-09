@@ -42,6 +42,8 @@ featured: false
 links:
   - name: Website
     url: /publication/zhang2023nca
+  - name: Publisher
+    url: https://papers.nips.cc/paper_files/paper/2023/hash/b2fbf1c9bc92e7ef2f6cab2e8a3e09af-Abstract-Conference.html
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2310.18622.pdf"
