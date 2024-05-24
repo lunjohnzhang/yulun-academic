@@ -73,7 +73,7 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2024-01-30T00:00:00.000Z
+date: 2024-04-30T00:00:00.000Z
 # doi: 10.24963/ijcai.2023/611
 
 profile: false
