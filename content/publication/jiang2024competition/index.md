@@ -70,7 +70,7 @@ image:
 # slides: example
 
 date: 2024-04-24T00:00:00.000Z
-# doi: 10.24963/ijcai.2023/611
+doi: 10.1609/socs.v17i1.31565
 
 profile: false
 share: false
