@@ -43,6 +43,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- **[2024/06]** Physically attended [SoCS 2024](https://socs24.search-conference.org/) in Kananaskis, Alberta, Canada!
+
+- **[2024/05]** Started working as an **Applied Scientist Intern** in **Amazon Robotics** in Boston, MA, USA!
+
 - **[2024/04]** Two papers (**[GGO](publication/zhang2024ggo)** and **[MAPF Mechanism](publication/friedrich2024mechanism)**) were accepted to [IJCAI 2024](https://ijcai24.org/)!
 
 - **[2024/03]** **[One MAPF position paper](publication/jiang2024competition)** and **three extended abstracts** were accepted to [SoCS 2024](https://socs24.search-conference.org/)!
@@ -59,10 +63,10 @@ subtitle = ""
 
 - **[2023/04]** Our paper **[Multi-Robot Coordination and Layout Design for Automated Warehousing](publication/zhang2023layout_opt)** was accepted to [IJCAI 2023](https://ijcai-23.org/)!
 
-- **[2022/10]** Joined **[ARCS Lab](https://jiaoyangli.me/people/)** at CMU Robotics Institute as a PhD student!
+<!-- - **[2022/10]** Joined **[ARCS Lab](https://jiaoyangli.me/people/)** at CMU Robotics Institute as a PhD student!
 
 - **[2022/10]** Our paper **[Efficient Multi-Task Learning via Iterated Single-Task Transfer](publication/zentner2022tpt_iros/)** was accepted to [IROS 2022](https://iros2022.org/)!
 
 - **[2022/07]** Physically attended [GECCO 2022](https://gecco-2022.sigevo.org/HomePage) in Boston, MA, USA!
 
-- **[2022/04]** Our paper **[Deep Surrogate Assisted MAP-Elites for Automated Hearthstone Deckbuilding](publication/zhang2022dsa-me/)** was accepted to [GECCO 2022](https://gecco-2022.sigevo.org/HomePage)!
+- **[2022/04]** Our paper **[Deep Surrogate Assisted MAP-Elites for Automated Hearthstone Deckbuilding](publication/zhang2022dsa-me/)** was accepted to [GECCO 2022](https://gecco-2022.sigevo.org/HomePage)! -->
