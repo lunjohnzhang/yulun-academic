@@ -8,6 +8,7 @@ math = true
 summary = """
 List of news.
 """
+share = false
 
 [header]
 image = ""
