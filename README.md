@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b4df8f0a-a45f-49fa-b198-1e310106870b/deploy-status)](https://app.netlify.com/sites/yulunzhang/deploys)
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/b4df8f0a-a45f-49fa-b198-1e310106870b/deploy-status)](https://app.netlify.com/sites/yulunzhang/deploys) -->
 
 <p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="./.github/media/sharing.png" alt="Hugo Blox Builder"></a></p>
 
