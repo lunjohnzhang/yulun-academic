@@ -43,7 +43,7 @@ url_code: "https://github.com/lunjohnzhang/ggo_public"
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "https://1drv.ms/p/c/6847b8d033285874/EZq5Q0-gmAdMvCXkIYwLsckB2fjowNeo6jFClNztvg7OUw?e=ZkKSAC"
 url_source: ""
 url_video: ""
 
