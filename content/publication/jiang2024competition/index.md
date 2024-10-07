@@ -41,9 +41,9 @@ featured: false
 url_pdf: "https://arxiv.org/pdf/2404.16162"
 url_code: "https://github.com/DiligentPanda/MAPF-LRR2023"
 url_dataset: ""
-url_poster: ""
+url_poster: "https://drive.google.com/file/d/1JeQCak9xe3DYMqovN-bNP8bi6tpDMSjO/view?usp=sharing"
 url_project: ""
-url_slides: ""
+url_slides: "https://1drv.ms/p/c/6847b8d033285874/EXks930ZphJKik0sN_1x02sBLEvgz_X4Ov_nrjT541eyyA?e=kYMKAJ"
 url_source: ""
 url_video: ""
 
