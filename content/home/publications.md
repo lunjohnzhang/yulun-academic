@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Publications
-subtitle: ''
+subtitle: $^U$ denotes mentored Undergrads.
 
 content:
   # Page type to display. E.g. post, talk, publication...
