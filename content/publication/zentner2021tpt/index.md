@@ -72,6 +72,7 @@ projects:
 # slides: example
 
 date: 2021-10-19T21:17:19.609Z
+doi: 10.48550/arXiv.2110.10255
 
 profile: false
 share: false

@@ -1,5 +1,5 @@
 ---
-title: "A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps"
+title: "Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -12,11 +12,12 @@ publication_types:
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Cheng Qian$^U$
+  - Hongzhi Zang$^U$
   - admin
-  - Varun Bhatt
-  - Matthew Christopher Fontaine
-  - Stefanos Nikolaidis
+  - He Jiang
+  - Zhe Chen
+  - Daniel Harabor
+  - Peter J. Stuckey
   - Jiaoyang Li
 
 # # Author notes (optional)
@@ -27,8 +28,7 @@ author_notes:
 # Publication name and optional abbreviated publication name.
 publication: "*Preprint*"
 
-abstract: We use the Quality Diversity (QD) algorithm with Neural Cellular Automata (NCA) to generate benchmark maps for Multi-Agent Path Finding (MAPF) algorithms. Previously, MAPF algorithms are tested using fixed, human-designed benchmark maps. However, such fixed benchmark maps have several problems. First, these maps may not cover all the potential failure scenarios for the algorithms. Second, when comparing different algorithms, fixed benchmark maps may introduce bias leading to unfair comparisons between algorithms. In this work, we take advantage of the QD algorithm and NCA with different objectives and diversity measures to generate maps with patterns to comprehensively understand the performance of MAPF algorithms and be able to make fair comparisons between two MAPF algorithms to provide further information on the selection between two algorithms. Empirically, we employ this technique to generate diverse benchmark maps to evaluate and compare the behavior of different types of MAPF algorithms such as bounded-suboptimal algorithms, suboptimal algorithms, and reinforcement-learning-based algorithms. Through both single-planner experiments and comparisons between algorithms, we identify patterns where each algorithm excels and detect disparities in runtime or success rates between different algorithms.
-
+abstract: We study the problem of optimizing a guidance policy capable of dynamically guiding the agents for lifelong Multi-Agent Path Finding based on real-time traffic patterns. Multi-Agent Path Finding (MAPF) focuses on moving multiple agents from their starts to goals without collisions. Its lifelong variant, LMAPF, continuously assigns new goals to agents. In this work, we focus on improving the solution quality of PIBT, a state-of-the-art rule-based LMAPF algorithm, by optimizing a policy to generate adaptive guidance. We design two pipelines to incorporate guidance in PIBT in two different ways. We demonstrate the superiority of the optimized policy over both static guidance and human-designed policies. Additionally, we explore scenarios where task distribution changes over time, a challenging yet common situation in real-world applications that is rarely explored in the literature.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -39,8 +39,12 @@ draft: false
 # Display this page in the Featured widget?
 featured: false
 
+# links:
+#   - name: Website
+#     url: /publication/zhang2024ggo
+
 # extra links
-url_pdf: "https://arxiv.org/pdf/2409.06888"
+url_pdf: "https://arxiv.org/pdf/2411.16506"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -71,9 +75,8 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2024-09-10T00:00:00.000Z
-doi: 10.48550/arXiv.2409.06888
-
+date: 2024-11-26T00:00:00.000Z
+doi: 10.48550/arXiv.2411.16506
 
 profile: false
 share: false
