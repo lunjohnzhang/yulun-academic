@@ -6,7 +6,7 @@ title: "Online Guidance Graph Optimization for Lifelong Multi-Agent Path Finding
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-  - "3"
+  - "1"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,7 +26,7 @@ author_notes:
   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "*Preprint*"
+publication: "In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Feb 27-Mar 04, Philadelphia, PA, USA*"
 
 abstract: We study the problem of optimizing a guidance policy capable of dynamically guiding the agents for lifelong Multi-Agent Path Finding based on real-time traffic patterns. Multi-Agent Path Finding (MAPF) focuses on moving multiple agents from their starts to goals without collisions. Its lifelong variant, LMAPF, continuously assigns new goals to agents. In this work, we focus on improving the solution quality of PIBT, a state-of-the-art rule-based LMAPF algorithm, by optimizing a policy to generate adaptive guidance. We design two pipelines to incorporate guidance in PIBT in two different ways. We demonstrate the superiority of the optimized policy over both static guidance and human-designed policies. Additionally, we explore scenarios where task distribution changes over time, a challenging yet common situation in real-world applications that is rarely explored in the literature.
 
@@ -45,7 +45,7 @@ featured: false
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2411.16506"
-url_code: ""
+url_code: "https://github.com/zanghz21/OnlineGGO"
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -75,8 +75,8 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2024-11-26T00:00:00.000Z
-doi: 10.48550/arXiv.2411.16506
+date: 2025-01-01T00:00:00.000Z
+# doi: 10.48550/arXiv.2411.16506
 
 profile: false
 share: false
