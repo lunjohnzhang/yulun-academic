@@ -100,7 +100,7 @@ Previously, I was a master/undergrad student majoring in Computer Science at the
 
 In addition, I was working in the [USC Interaction Lab](https://uscinteractionlab.web.app/) with [Dr. Matt Rueben](https://matthewrueben.github.io/) on [**socially assistive robotics**](publication/rueben2021volume/) as well as Professor [William Halfond](https://viterbi-web.usc.edu/~halfond/)'s group on [**record and replay tools for Android**](project/reran/).
 
-Here is my most recent [CV](https://drive.google.com/file/d/1eNkPb-MZoIFxYWdFh-qV8ulnMNTbmcII/view?usp=sharing) (updated Oct 2024).
+Here is my most recent [CV](https://drive.google.com/file/d/1eNkPb-MZoIFxYWdFh-qV8ulnMNTbmcII/view?usp=sharing) (updated Jan 2025).
 
 I am also enthusiastic about photography, especially scenery photography. Check out [my photography portfolio](https://yulunzhang.myportfolio.com/) and [instagram](https://www.instagram.com/lunjohnzhang/) for some of my works.
 
