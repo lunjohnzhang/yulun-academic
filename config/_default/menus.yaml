@@ -19,7 +19,7 @@ main:
   - name: Featured Publications
     url: '#featured'
     weight: 40
-  - name: Publications
+  - name: Other Publications
     url: '#publications'
     weight: 50
   - name: Other Projects
