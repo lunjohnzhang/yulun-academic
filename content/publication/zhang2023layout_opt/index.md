@@ -37,7 +37,7 @@ abstract: With the rapid progress in Multi-Agent Path Finding (MAPF), researcher
 draft: false
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2305.06436.pdf"

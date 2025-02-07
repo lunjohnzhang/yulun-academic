@@ -7,18 +7,22 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 40
 
-active: false
+active: true
 
 title: Featured Publications
-subtitle: ""
+subtitle: $^U$ denotes mentored Undergrads.
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
+# Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
   # Filter on criteria
   filters:
     author: ""
@@ -34,5 +38,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 4
 ---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}

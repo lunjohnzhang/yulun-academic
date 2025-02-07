@@ -35,7 +35,7 @@ abstract: We study the problem of efficiently generating high-quality and divers
 draft: false
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2112.03534.pdf"

@@ -36,7 +36,7 @@ abstract: When studying robots collaborating with humans, much of the focus has 
 draft: false
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links
 links:

@@ -13,15 +13,18 @@ main:
   # - name: Recent News
   #   url: '#recent_news'
   #   weight: 20
-  - name: Other Projects
-    url: '#projects'
-    weight: 60
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
+  - name: Featured Publications
+    url: '#featured'
+    weight: 40
   - name: Publications
     url: '#publications'
     weight: 50
+  - name: Other Projects
+    url: '#projects'
+    weight: 60
   # - name: Contact
   #   url: '#contact'
   #   weight: 60

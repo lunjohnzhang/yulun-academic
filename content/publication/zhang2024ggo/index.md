@@ -35,7 +35,7 @@ abstract: We study how to use guidance to improve the throughput of lifelong Mul
 draft: false
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 links:
   - name: Website

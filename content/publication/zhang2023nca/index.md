@@ -36,7 +36,7 @@ summary: We propose to optimize Neural Cellular Automata (NCA) environment gener
 draft: false
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links
 links:
