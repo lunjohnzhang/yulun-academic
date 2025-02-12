@@ -39,9 +39,9 @@ draft: false
 # Display this page in the Featured widget?
 featured: false
 
-# links:
-#   - name: Website
-#     url: /publication/zhang2024ggo
+links:
+  - name: Website
+    url: https://sites.google.com/view/onlineggo
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2411.16506"
@@ -51,7 +51,7 @@ url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: "https://drive.google.com/file/d/1d35gmt18vlJ3XKdJwzmxlKv9JeASLLsc/view?t=291"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
