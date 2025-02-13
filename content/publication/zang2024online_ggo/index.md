@@ -47,9 +47,9 @@ links:
 url_pdf: "https://arxiv.org/pdf/2411.16506"
 url_code: "https://github.com/zanghz21/OnlineGGO"
 url_dataset: ""
-url_poster: ""
+url_poster: "https://drive.google.com/file/d/1Cwy9v44roCINx8Kry6aGkYrkUwaQM0FD/view?usp=drive_link"
 url_project: ""
-url_slides: ""
+url_slides: "https://1drv.ms/p/c/6847b8d033285874/ERkuhW00_gZIjOZTdimgkmsB6VJpSYd3cytN_WjWjJkVMg?e=r2GSqO"
 url_source: ""
 url_video: "https://drive.google.com/file/d/1d35gmt18vlJ3XKdJwzmxlKv9JeASLLsc/view?t=291"
 
