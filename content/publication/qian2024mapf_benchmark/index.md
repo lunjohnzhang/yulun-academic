@@ -43,7 +43,7 @@ featured: false
 url_pdf: "https://arxiv.org/pdf/2409.06888"
 url_code: ""
 url_dataset: ""
-url_poster: ""
+url_poster: "https://drive.google.com/file/d/10Z7I7JoEXJlQvY56viCuY8oh8c0g2zMV/view?usp=drive_link"
 url_project: ""
 url_slides: ""
 url_source: ""
