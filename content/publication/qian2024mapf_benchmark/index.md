@@ -45,7 +45,7 @@ url_code: ""
 url_dataset: ""
 url_poster: "https://drive.google.com/file/d/10Z7I7JoEXJlQvY56viCuY8oh8c0g2zMV/view?usp=drive_link"
 url_project: ""
-url_slides: ""
+url_slides: "https://1drv.ms/b/c/6847b8d033285874/ES114BsqDDpBh6uzmPjAEFsBIIBw1VY-MlWSgpxlgtZCmg?e=d7rO4z"
 url_source: ""
 url_video: ""
 
