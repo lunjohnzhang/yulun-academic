@@ -15,7 +15,7 @@ authors:
   - Cheng Qian$^U$
   - admin
   - Varun Bhatt
-  - Matthew Christopher Fontaine
+  - Matthew C. Fontaine
   - Stefanos Nikolaidis
   - Jiaoyang Li
 
