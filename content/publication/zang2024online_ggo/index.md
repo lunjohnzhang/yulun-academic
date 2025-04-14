@@ -76,7 +76,7 @@ image:
 # slides: example
 
 date: 2025-02-28T00:00:00.000Z
-# doi: 10.48550/arXiv.2411.16506
+doi: 10.1609/aaai.v39i14.33614
 
 profile: false
 share: false
