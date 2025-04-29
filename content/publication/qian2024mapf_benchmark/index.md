@@ -39,6 +39,11 @@ draft: false
 # Display this page in the Featured widget?
 featured: false
 
+# Custom links
+links:
+  - name: Website
+    url: https://airtclick.github.io/Benchmark.github.io/
+
 # extra links
 url_pdf: "https://arxiv.org/pdf/2409.06888"
 url_code: ""
