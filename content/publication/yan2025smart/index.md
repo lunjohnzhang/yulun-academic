@@ -15,8 +15,12 @@ authors:
     - Jingtian Yan
     - Zhifei Li
     - William Kang
+    - Kevin Zheng
     - admin
-    - Stephen Smith
+    - Zhe Chen
+    - Yue Zhang
+    - Daniel Harabor
+    - Stephen F Smith
     - Jiaoyang Li
 
 
@@ -28,7 +32,7 @@ authors:
 # Publication name and optional abbreviated publication name.
 publication: "*Preprint*"
 
-abstract: "We present Scalable Multi-Agent Realistic Testbed (SMART), a realistic and efficient software tool for evaluating Multi-Agent Path Finding (MAPF) algorithms. MAPF focuses on planning collision-free paths for a group of agents. While state-of-the-art MAPF algorithms can plan paths for hundreds of robots in seconds, they often rely on simplified robot models, making their real-world performance unclear. Researchers typically lack access to hundreds of physical robots in laboratory settings to evaluate the algorithms. Meanwhile, industrial professionals who lack expertise in MAPF require an easy-to-use simulator to efficiently test and understand the performance of MAPF algorithms in their specific settings. SMART fills this gap with several advantages: (1) SMART uses a physics-engine-based simulator to create realistic simulation environments, accounting for complex real-world factors such as robot kinodynamics and execution uncertainties, (2) SMART uses an execution monitor framework based on the Action Dependency Graph, facilitating seamless integration with various MAPF algorithms and robot models, and (3) SMART scales to thousands of robots. In addition, we use SMART to explore and demonstrate research questions about the execution of MAPF algorithms in real-world scenarios. The code is publicly available at [this https URL](https://jingtianyan.github.io/publication/2025-smart/)."
+abstract: "We present Scalable Multi-Agent Realistic Testbed (SMART), a realistic and efficient software tool for evaluating Multi-Agent Path Finding (MAPF) algorithms. MAPF focuses on planning collision-free paths for a group of agents. While state-of-the-art MAPF algorithms can plan paths for hundreds of robots in seconds, they often rely on simplified robot models, making their real-world performance unclear. Researchers typically lack access to hundreds of physical robots in laboratory settings to evaluate the algorithms. Meanwhile, industrial professionals who lack expertise in MAPF require an easy-to-use simulator to efficiently test and understand the performance of MAPF algo- rithms in their specific settings. SMART fills this gap with several advantages: (1) SMART uses physics-engine-based simulators to create realistic simulation environments, accounting for complex real-world factors such as robot kinodynamics and execution uncertainties, (2) SMART uses an execution monitor framework based on the Action Dependency Graph, facilitating seamless integration with various MAPF algorithms and robot models, and (3) SMART scales to thousands of robots. The code is publicly available at https://github.com/smart-mapf/smart."
 
 
 # Summary. An optional shortened abstract.
@@ -42,7 +46,7 @@ featured: false
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2503.04798"
-url_code: "https://github.com/JingtianYan/SMART/"
+url_code: "https://github.com/smart-mapf/smart"
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -53,7 +57,7 @@ url_video: ""
 # Custom links
 links:
   - name: Website
-    url: https://jingtianyan.github.io/publication/2025-smart/
+    url: https://smart-mapf.github.io/demo/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
