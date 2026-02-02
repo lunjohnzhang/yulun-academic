@@ -42,7 +42,7 @@ url_code: "https://github.com/lunjohnzhang/tmo_public"
 url_dataset: ""
 url_poster: ""
 url_project: ""
-url_slides: ""
+url_slides: "https://1drv.ms/p/c/6847b8d033285874/IQAin2Q66i_kS585KHS8oI4qAb7MY8dRl8pFClk9XKe2PLo?e=kBbOy3"
 url_source: ""
 url_video: ""
 
@@ -69,7 +69,7 @@ image:
 # slides: example
 
 date: 2025-10-03T00:00:00.000Z
-# doi: 10.24963/ijcai.2024/35
+doi: 10.1109/MRS66243.2025.11357255
 
 profile: false
 share: false
