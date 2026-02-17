@@ -1,12 +1,12 @@
 ---
-title: "A Quality Diversity Method to Automatically Generate Multi-Agent Path Finding Benchmark Maps"
+title: "QD-MAPPER: A Quality Diversity Framework to Automatically Evaluate Multi-Agent Path Finding Algorithms in Diverse Maps"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-  - "3"
+  - "1"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,9 +25,9 @@ author_notes:
   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "*Preprint*"
+publication: "In *Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May 25--29, Paphos, Cyprus*"
 
-abstract: We use the Quality Diversity (QD) algorithm with Neural Cellular Automata (NCA) to generate benchmark maps for Multi-Agent Path Finding (MAPF) algorithms. Previously, MAPF algorithms are tested using fixed, human-designed benchmark maps. However, such fixed benchmark maps have several problems. First, these maps may not cover all the potential failure scenarios for the algorithms. Second, when comparing different algorithms, fixed benchmark maps may introduce bias leading to unfair comparisons between algorithms. Third, since researchers test new algorithms on a small set of fixed benchmark maps, the design of the algorithms may overfit to the small set of maps. In this work, we take advantage of the QD algorithm to (1) generate maps with patterns to comprehensively understand the performance of MAPF algorithms, (2) be able to make fair comparisons between two MAPF algorithms, providing further information on the selection between two algorithms and on the design of the algorithms. Empirically, we employ this technique to generate diverse benchmark maps to evaluate and compare the behavior of different types of MAPF algorithms, including search-based, priority-based, rule-based, and learning-based algorithms. Through both single-algorithm experiments and comparisons between algorithms, we identify patterns where each algorithm excels and detect disparities in runtime or success rates between different algorithms.
+abstract: We use the Quality Diversity (QD) algorithm with Neural Cellular Automata (NCA) to automatically evaluate Multi-Agent Path Finding (MAPF) algorithms by generating diverse maps. Previously, researchers typically evaluate MAPF algorithms on a set of specific, human-designed maps at their initial stage of algorithm design. However, such fixed maps may not cover all scenarios, and algorithms may overfit to the small set of maps. To seek further improvements, systematic evaluations on a diverse suite of maps are needed. In this work, we propose **Q**uality-**D**iversity **M**ulti-**A**gent **P**ath Finding **P**erformance **E**valuato**R** (**QD-MAPPER**), a general framework that takes advantage of the QD algorithm to comprehensively understand the performance of MAPF algorithms by generating maps with patterns, be able to make fair comparisons between two MAPF algorithms, providing further information on the selection between two algorithms and on the design of the algorithms. Empirically, we employ this technique to evaluate and compare the behavior of different types of MAPF algorithms, including search-based, priority-based, rule-based, and learning-based algorithms. Through both single-algorithm experiments and comparisons between algorithms, researchers can identify patterns that each MAPF algorithm excels and detect disparities in runtime or success rates between different algorithms.
 
 
 # Summary. An optional shortened abstract.
@@ -42,11 +42,11 @@ featured: false
 # Custom links
 links:
   - name: Website
-    url: https://airtclick.github.io/Benchmark.github.io/
+    url: https://airtclick.github.io/qdmapper/
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2409.06888"
-url_code: ""
+url_code: "https://github.com/AirTClick/QD-MAPPER"
 url_dataset: ""
 url_poster: "https://drive.google.com/file/d/10Z7I7JoEXJlQvY56viCuY8oh8c0g2zMV/view?usp=drive_link"
 url_project: ""
@@ -76,8 +76,8 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2024-09-10T00:00:00.000Z
-doi: 10.48550/arXiv.2409.06888
+date: 2026-01-20T00:00:00.000Z
+# doi: 10.65109
 
 
 profile: false
