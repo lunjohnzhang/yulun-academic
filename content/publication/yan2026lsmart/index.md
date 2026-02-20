@@ -53,9 +53,11 @@ url_source: ""
 url_video: ""
 
 # Custom links
-links:
-  - name: Website
-    url: https://smart-mapf.github.io/lifelong-smart/
+# links:
+#   - name: Website
+#     url: https://smart-mapf.github.io/lifelong-smart/
+
+external_link: https://smart-mapf.github.io/lifelong-smart/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
