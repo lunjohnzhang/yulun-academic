@@ -39,9 +39,9 @@ draft: false
 # Display this page in the Featured widget?
 featured: false
 
-links:
-  - name: Website
-    url: https://sites.google.com/view/onlineggo
+# links:
+#   - name: Website
+#     url: https://sites.google.com/view/onlineggo
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2411.16506"
@@ -52,6 +52,8 @@ url_project: ""
 url_slides: "https://1drv.ms/p/c/6847b8d033285874/ERkuhW00_gZIjOZTdimgkmsB6VJpSYd3cytN_WjWjJkVMg?e=r2GSqO"
 url_source: ""
 url_video: "https://drive.google.com/file/d/1d35gmt18vlJ3XKdJwzmxlKv9JeASLLsc/view?t=291"
+
+external_link: https://sites.google.com/view/onlineggo
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

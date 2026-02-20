@@ -40,9 +40,9 @@ featured: true
 
 # Custom links
 links:
-  - name: Website
-    url: /publication/zhang2023nca
-  - name: Publisher
+#   - name: Website
+#     url: /publication/zhang2023nca
+  - name: DOI
     url: https://papers.nips.cc/paper_files/paper/2023/hash/b2fbf1c9bc92e7ef2f6cab2e8a3e09af-Abstract-Conference.html
 
 # extra links

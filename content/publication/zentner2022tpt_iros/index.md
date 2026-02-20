@@ -38,9 +38,9 @@ draft: false
 featured: false
 
 # Custom links
-links:
-  - name: Website
-    url: https://sites.google.com/view/task-policy-transfer
+# links:
+#   - name: Website
+#     url: https://sites.google.com/view/task-policy-transfer
 
 # extra links
 url_pdf: "https://ieeexplore.ieee.org/document/9981244"
@@ -51,6 +51,8 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: "https://www.youtube.com/watch?v=0I7otKc3Pmc"
+
+external_link: https://sites.google.com/view/task-policy-transfer
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -43,19 +43,21 @@ draft: false
 featured: false
 
 # Custom links
-links:
-  - name: Website
-    url: https://pyribs.org/paper/
+# links:
+#   - name: Website
+#     url: https://pyribs.org/paper/
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2303.00191.pdf"
 url_code: "https://github.com/icaros-usc/pyribs/"
 url_dataset: ""
 url_poster: ""
-url_project: "https://pyribs.org/"
+url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+
+external_link: https://pyribs.org
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

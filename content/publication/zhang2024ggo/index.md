@@ -37,9 +37,9 @@ draft: false
 # Display this page in the Featured widget?
 featured: true
 
-links:
-  - name: Website
-    url: /publication/zhang2024ggo
+# links:
+#   - name: Website
+#     url: /publication/zhang2024ggo
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2402.01446.pdf"

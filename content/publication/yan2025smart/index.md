@@ -54,10 +54,12 @@ url_slides: ""
 url_source: ""
 url_video: ""
 
-# Custom links
-links:
-  - name: Website
-    url: https://smart-mapf.github.io/demo/
+# # Custom links
+# links:
+#   - name: Website
+#     url: https://smart-mapf.github.io/demo/
+
+external_link: https://smart-mapf.github.io/demo/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -40,9 +40,9 @@ draft: false
 featured: false
 
 # Custom links
-links:
-  - name: Website
-    url: https://airtclick.github.io/qdmapper/
+# links:
+#   - name: Website
+#     url: https://airtclick.github.io/qdmapper/
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2409.06888"
@@ -53,6 +53,8 @@ url_project: ""
 url_slides: "https://1drv.ms/b/c/6847b8d033285874/ES114BsqDDpBh6uzmPjAEFsBIIBw1VY-MlWSgpxlgtZCmg?e=d7rO4z"
 url_source: ""
 url_video: ""
+
+external_link: https://airtclick.github.io/qdmapper/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

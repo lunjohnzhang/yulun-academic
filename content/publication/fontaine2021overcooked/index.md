@@ -39,9 +39,9 @@ draft: false
 featured: true
 
 # Custom links
-links:
-  - name: Website
-    url: https://overcooked-lsi.github.io/
+# links:
+#   - name: Website
+#     url: https://overcooked-lsi.github.io/
 
 # extra links
 url_pdf: "https://arxiv.org/pdf/2106.10853.pdf"
@@ -52,6 +52,8 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: "https://www.youtube.com/watch?v=IeoTM_KnDfY"
+
+external_link: https://overcooked-lsi.github.io/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
