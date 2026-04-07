@@ -1,0 +1,1 @@
+{{- /* Intentionally empty local fallback for Netlify _headers output. */ -}}
