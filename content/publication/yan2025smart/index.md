@@ -6,7 +6,7 @@ title: "Advancing MAPF towards the Real World: A Scalable Multi-Agent Realistic 
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-  - "3"
+  - "2"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -30,7 +30,7 @@ authors:
 #   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "*Preprint*"
+publication: "*IEEE Robotics and Automation Letters (RA-L)*"
 
 abstract: "We present Scalable Multi-Agent Realistic Testbed (SMART), a realistic and efficient software tool for evaluating Multi-Agent Path Finding (MAPF) algorithms. MAPF focuses on planning collision-free paths for a group of agents. While state-of-the-art MAPF algorithms can plan paths for hundreds of robots in seconds, they often rely on simplified robot models, making their real-world performance unclear. Researchers typically lack access to hundreds of physical robots in laboratory settings to evaluate the algorithms. Meanwhile, industrial professionals who lack expertise in MAPF require an easy-to-use simulator to efficiently test and understand the performance of MAPF algo- rithms in their specific settings. SMART fills this gap with several advantages: (1) SMART uses physics-engine-based simulators to create realistic simulation environments, accounting for complex real-world factors such as robot kinodynamics and execution uncertainties, (2) SMART uses an execution monitor framework based on the Action Dependency Graph, facilitating seamless integration with various MAPF algorithms and robot models, and (3) SMART scales to thousands of robots. The code is publicly available at https://github.com/smart-mapf/smart."
 
@@ -83,8 +83,8 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2025-03-03T00:00:00.000Z
-doi: 10.48550/arXiv.2503.04798
+date: 2026-04-03T00:00:00.000Z
+# doi: 10.48550/arXiv.2503.04798
 
 profile: false
 share: false
