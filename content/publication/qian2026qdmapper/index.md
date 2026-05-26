@@ -79,7 +79,7 @@ image:
 # slides: example
 
 date: 2026-01-20T00:00:00.000Z
-# doi: 10.65109
+doi: 10.65109/UZVN6052
 
 
 profile: false
