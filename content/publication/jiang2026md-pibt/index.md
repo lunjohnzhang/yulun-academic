@@ -6,7 +6,7 @@ title: "Planning over MAPF Agent Dependencies via Multi-Dependency PIBT"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-  - "3"
+  - "1"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,7 +24,7 @@ author_notes:
   - Equal contribution
 
 # Publication name and optional abbreviated publication name.
-publication: "*Preprint*"
+publication: "In *Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Sep 27-Oct 1, 2026, Pittsburgh, Pennsylvania, USA*"
 
 abstract: Modern Multi-Agent Path Finding (MAPF) algorithms must plan for hundreds to thousands of agents in congested environments within a second, requiring highly efficient algorithms. Priority Inheritance with Backtracking (PIBT) is a popular algorithm capable of effectively planning in such situations. However, PIBT is constrained by its rule-based planning procedure and lacks generality because it restricts its search to paths that conflict with at most one other agent. This limitation also applies to Enhanced PIBT (EPIBT), a recent extension of PIBT. In this paper, we describe a new perspective on solving MAPF by planning over agent dependencies. Taking inspiration from PIBT's priority inheritance logic, we define the concept of agent dependencies and propose Multi-Dependency PIBT (MD-PIBT) that searches over agent dependencies. MD-PIBT is a general framework where specific parameterizations can reproduce PIBT and EPIBT. At the same time, alternative configurations yield novel planning strategies that are not expressible by PIBT or EPIBT. Our experiments demonstrate that MD-PIBT effectively plans for as many as 10,000 homogeneous agents under various kinodynamic constraints, including pebble motion, rotation motion, and differential drive robots with speed and acceleration limits. We perform thorough evaluations on different variants of MAPF and find that MD-PIBT is particularly effective in MAPF with large agents.
 
@@ -73,7 +73,7 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
-date: 2026-03-25T00:00:00.000Z
+date: 2026-06-15T00:00:00.000Z
 doi: 10.48550/arXiv.2603.23405
 
 profile: false
