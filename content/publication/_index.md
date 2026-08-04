@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: $^U$ denotes mentored Undergrads.
+subtitle: $^U$ and $^M$ denotes mentored Undergrads and Master's student, respectively.
 cms_exclude: true
 
 # View.

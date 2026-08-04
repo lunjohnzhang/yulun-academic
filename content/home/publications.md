@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Other Publications
-subtitle: $^U$ denotes mentored Undergrads.
+subtitle: $^U$ and $^M$ denotes mentored Undergrads and Master's student, respectively.
 
 content:
   # Page type to display. E.g. post, talk, publication...

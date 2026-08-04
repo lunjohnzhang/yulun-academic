@@ -12,7 +12,7 @@ weight: 40
 active: true
 
 title: Featured Publications
-subtitle: $^U$ denotes mentored Undergrads.
+subtitle: $^U$ and $^M$ denotes mentored Undergrads and Master's student, respectively.
 
 content:
   # Page type to display. E.g. post, talk, publication...
