@@ -51,7 +51,8 @@ url_poster: "https://drive.google.com/file/d/1Cwy9v44roCINx8Kry6aGkYrkUwaQM0FD/v
 url_project: ""
 url_slides: "https://1drv.ms/p/c/6847b8d033285874/ERkuhW00_gZIjOZTdimgkmsB6VJpSYd3cytN_WjWjJkVMg?e=r2GSqO"
 url_source: ""
-url_video: "https://drive.google.com/file/d/1d35gmt18vlJ3XKdJwzmxlKv9JeASLLsc/view?t=291"
+# url_video: "https://drive.google.com/file/d/1d35gmt18vlJ3XKdJwzmxlKv9JeASLLsc/view?t=291"
+url_video: "https://underline.io/lecture/111633-online-guidance-graph-optimization-for-lifelong-multi-agent-path-finding"
 
 external_link: https://sites.google.com/view/onlineggo
 
